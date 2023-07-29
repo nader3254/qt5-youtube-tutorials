@@ -1,0 +1,7 @@
+echo "# qt5-youtube-tutorials" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nader3254/qt5-youtube-tutorials.git
+git push -u origin main
